@@ -1,0 +1,8 @@
+﻿<Window x:Name="About" x:Class="Aftermath_Studio.Window1"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="About" Height="310" Width="416.667" Background="{x:Null}" ResizeMode="NoResize" MinWidth="250" MinHeight="249" Icon="Aicon.ico">
+    <Grid x:Name="Grid_Color" Background="#FF677DA2" Margin="0,0,0,1">
+        <Image x:Name="About_png" Source="About.png" Stretch="Fill" Margin="0,0,0,-9"/>
+    </Grid>
+</Window>
