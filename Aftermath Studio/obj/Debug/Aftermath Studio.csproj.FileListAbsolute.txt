@@ -1,0 +1,53 @@
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\ffmpeg.exe
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.exe.config
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.exe
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.pdb
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Bass.Net.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\irrKlang.NET4.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\NAudio.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\WPFSoundVisualizationLib.dll
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Bass.Net.xml
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\MainWindow.baml
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Preferences_Window.baml
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Window1.baml
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\MainWindow.g.cs
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Preferences_Window.g.cs
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Window1.g.cs
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\App.g.cs
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio_Content.g.cs
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio_MarkupCompile.cache
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.g.resources
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath_Studio.Properties.Resources.resources
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.csproj.GenerateResource.Cache
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.exe
+D:\Bogdan\Documents\Visual Studio 2013\Projects\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.pdb
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\ffmpeg.exe
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.exe.config
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.exe
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Aftermath Studio.pdb
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Bass.Net.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\irrKlang.NET4.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Microsoft.Practices.Prism.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\NAudio.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\NAudio.WindowsMediaFormat.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\WPFSoundVisualizationLib.dll
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\bin\Debug\Bass.Net.xml
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.csprojResolveAssemblyReference.cache
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\MainWindow.baml
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Preferences_Window.baml
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Window1.baml
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\MainWindow.g.cs
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Preferences_Window.g.cs
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Window1.g.cs
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\App.g.cs
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio_Content.g.cs
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio_MarkupCompile.cache
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.g.resources
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath_Studio.Properties.Resources.resources
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.csproj.GenerateResource.cache
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.csproj.CoreCompileInputs.cache
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.csproj.CopyComplete
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.exe
+D:\Lappy\Aftermath Studio Main Branch\Aftermath Studio\obj\Debug\Aftermath Studio.pdb
